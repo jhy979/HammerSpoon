@@ -1,0 +1,2 @@
+# HammerSpoon
+hammerSpoon settings
