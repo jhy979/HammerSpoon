@@ -1,5 +1,5 @@
 # HammerSpoon
-```
+```lua
 -- Greeting when log in
 hs.alert.show('Hello, 호영 ☺️')
 
